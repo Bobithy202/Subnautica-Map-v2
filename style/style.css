@@ -1,0 +1,47 @@
+h1 {
+  font-weight: bold;
+}
+img {
+  z-index: 1;
+  height: 1000px;
+  width: 1000px;
+}
+#A {
+  Background-color: rgba(255, 0, 0, 1);
+  width: 150px;
+  height: 210px;
+  padding-right: 0px;
+  margin-right: 0px;
+  list-style: none;
+  text-align: center;
+  text-align: center;
+  align-content: center;
+  z-index: 0;
+}
+.layout {
+  display: flex;
+  align-items: flex-start;
+  width: 1850px;
+  height: 1275px;
+}
+li {
+  color: rgba(0, 255, 100, 1);
+}
+.map-container {
+  position: relative;
+  display: inline-block;
+}
+
+.map {
+  width: 1000px;
+  height: 1000px;
+  display: block;
+}
+body {
+  min-height: 215px;
+  min-width: 460px;
+  max-height: 2160px;
+  max-width: 3840px;
+  background-image: url(background/background1.png);
+  background-size: contain;
+}

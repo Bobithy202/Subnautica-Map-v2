@@ -1,0 +1,54 @@
+{
+    "header": {
+        "magic": "SNBI",
+        "version": 1,
+        "objectCount": 3
+    },
+    "objects": [
+        {
+            "prefabID": 17,
+            "position": {
+                "x": -122.0,
+                "y": -50.0,
+                "z": 1000.0
+            },
+            "rotation": {
+                "x": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "metadata": "Beacon"
+        },
+        {
+            "prefabID": 34,
+            "position": {
+                "x": -204.8000030517578,
+                "y": -240.0,
+                "z": 588.7999877929688
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "metadata": "Seamoth"
+        },
+        {
+            "prefabID": 51,
+            "position": {
+                "x": -640.0,
+                "y": -80.0,
+                "z": 800.0
+            },
+            "rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": 0.0
+            },
+            "metadata": "Reefback"
+        }
+    ]
+}

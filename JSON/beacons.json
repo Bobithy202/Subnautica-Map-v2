@@ -1,0 +1,36 @@
+{
+  "beacons": [
+    {
+      "id": "beacon_01",
+      "label": "Lifepod 5",
+      "color": "yellow",
+      "position": {
+        "x": -30.0,
+        "y": -20.0,
+        "z": 900.0
+      }
+    },
+    {
+      "id": "beacon_02",
+      "label": "Kelp Forest Cave",
+      "color": "green",
+      "position": {
+        "x": -210.0,
+        "y": -75.0,
+        "z": 1100.0
+      }
+    }
+  ],
+  "signals": [
+    {
+      "id": "signal_aurora",
+      "label": "Aurora Rendezvous Point",
+      "color": "red",
+      "position": {
+        "x": 1120.0,
+        "y": -5.0,
+        "z": -300.0
+      }
+    }
+  ]
+}

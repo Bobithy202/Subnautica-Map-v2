@@ -1,0 +1,14 @@
+{
+  "slots": [
+    { "slot": 0, "item": "NutrientBlock", "count": 1 },
+    { "slot": 1, "item": "FirstAidKit", "count": 1 },
+    { "slot": 2, "item": "Battery", "count": 2 },
+    { "slot": 3, "item": "CopperOre", "count": 4 }
+  ],
+  "quickSlots": [
+    "Scanner",
+    "RepairTool",
+    "SurvivalKnife",
+    "Seaglide"
+  ]
+}

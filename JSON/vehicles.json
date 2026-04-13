@@ -1,0 +1,48 @@
+{
+  "seamoth": [
+    {
+      "id": "seamoth_01",
+      "name": "Silver Dart",
+      "position": {
+        "x": -140.22,
+        "y": -55.90,
+        "z": 1001.44
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 12.3,
+        "z": 0.0
+      },
+      "health": 92,
+      "power": 68,
+      "modules": [
+        "DepthModuleMK2",
+        "SolarCharger",
+        "SonarModule"
+      ]
+    }
+  ],
+  "prawn": [
+    {
+      "id": "prawn_01",
+      "name": "Iron Walker",
+      "position": {
+        "x": -310.88,
+        "y": -220.55,
+        "z": 760.12
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 300.0,
+        "z": 0.0
+      },
+      "health": 100,
+      "power": 54,
+      "modules": [
+        "GrapplingArm",
+        "DrillArm",
+        "JumpJetUpgrade"
+      ]
+    }
+  ]
+}

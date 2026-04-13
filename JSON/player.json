@@ -1,0 +1,31 @@
+{
+  "position": {
+    "x": -123.52,
+    "y": -44.10,
+    "z": 982.33
+  },
+  "rotation": {
+    "x": 0.0,
+    "y": 145.2,
+    "z": 0.0
+  },
+  "health": 87,
+  "oxygen": 135,
+  "maxOxygen": 135,
+  "food": 62,
+  "water": 48,
+  "temperature": 37.0,
+  "radiation": 0.12,
+  "currentBiome": "GrassyPlateaus",
+  "equipment": {
+    "head": "RadiationHelmet",
+    "body": "ReinforcedDiveSuit",
+    "fins": "UltraGlideFins",
+    "tank": "HighCapacityO2Tank"
+  },
+  "heldItems": [
+    "Scanner",
+    "RepairTool",
+    "SurvivalKnife"
+  ]
+}
